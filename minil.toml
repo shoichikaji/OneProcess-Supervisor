@@ -1,0 +1,6 @@
+name = "OneProcess-Supervisor"
+# badges = ["travis"]
+authority="cpan:SKAJI"
+
+module_maker="ModuleBuildTiny"
+
